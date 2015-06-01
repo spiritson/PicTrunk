@@ -1,0 +1,11 @@
+ body {
+        padding-top: 70px;
+        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.navbar .navbar-brand{
+color: #E64848;
+font-family: 'Courgette', serif;
+font-size:48px;
+font-weight:light;
+}
